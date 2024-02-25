@@ -8,9 +8,11 @@ Then follow the steps below
 3. cd to the project directory in the terminal
 4. execute the command line below
    
+## Project setup
 ```
 npm install
-```  
+```
+
 ```
 npm run serve
 ```
