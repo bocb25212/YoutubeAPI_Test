@@ -9,10 +9,10 @@ Then follow the steps below
 4. execute the command line below
    
 ```
-1. npm install
+npm install
 ```  
 ```
-2. npm run serve
+npm run serve
 ```
 
 This will start the project 
